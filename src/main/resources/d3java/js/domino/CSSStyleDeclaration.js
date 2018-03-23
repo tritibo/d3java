@@ -1,5 +1,5 @@
 "use strict";
-var parserlib = require('d3java/js/domino/Cssparser');
+var parserlib = require('d3java/js/domino/cssparser');
 
 module.exports = CSSStyleDeclaration;
 
